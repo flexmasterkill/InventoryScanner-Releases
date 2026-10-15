@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "latest": {
-    "versionCode": 23,
-    "versionName": "1.4.10",
-    "tag": "v1.4.10",
-    "apkUrl": "https://github.com/flexmasterkill/InventoryScanner-Releases/releases/download/v1.4.10/InventoryScanner.apk",
-    "bytes": 100201781,
-    "sha256": "4E16A4F290CEFAE67821DB0EAFA6C84F827EFCC8588D7EDF370E01653B5954C8",
+    "versionCode": 24,
+    "versionName": "1.4.11",
+    "tag": "v1.4.11",
+    "apkUrl": "https://github.com/flexmasterkill/InventoryScanner-Releases/releases/download/v1.4.11/InventoryScanner.apk",
+    "bytes": 100202633,
+    "sha256": "5B7E4FB6BEB4E0E32011F8274667869B6C3E846D78A4324266FC4362C46CB26A",
     "signingCertificateSha256": "CDBB5CE479E6795E3F33447BD8BB6B123DBC978E021662CC42F1F4D17A8FE4C1",
     "minimumSdk": 26,
     "mandatory": false,
-    "notesUrl": "https://github.com/flexmasterkill/InventoryScanner-Releases/releases/tag/v1.4.10"
+    "notesUrl": "https://github.com/flexmasterkill/InventoryScanner-Releases/releases/tag/v1.4.11"
   }
 }
